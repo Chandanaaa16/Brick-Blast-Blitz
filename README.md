@@ -5,7 +5,7 @@ Brick-Blast-Blitz is a classic Brick Breaker game built in Java with MySQL integ
 
 
 🎮 Game Features:
-🧱 Brick-Breaker Mechanics – Control a paddle to bounce the ball and break bricks.
+🧱 Brick-Breaker Mechanics – Control a paddle to bounce the ball and break bricks. 
 🔀 Dynamic Brick Map – Randomly generated brick layouts for varied gameplay.
 🏆 Score System – Tracks and saves player scores using MySQL.
 🎯 Win & Lose Conditions – Lose when the ball touches the bottom; win by breaking all bricks.
